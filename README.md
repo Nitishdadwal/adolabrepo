@@ -1,2 +1,2 @@
-# adolabrepo
-This is for ado lab repo
+# merged repo
+- migration of repo from github to ado done
